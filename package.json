@@ -1,0 +1,10 @@
+{
+  "name": "hardhat-network-intro",
+  "version": "1.0.0",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.0",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.6.0"
+  }
+}
